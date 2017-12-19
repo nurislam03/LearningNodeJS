@@ -1,0 +1,29 @@
+{
+  "name": "learningnodejs",
+  "version": "1.0.0",
+  "description": "First Project using NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurislam03/LearningNodeJS.git"
+  },
+  "keywords": [
+    "Simple",
+    "Project",
+    "of",
+    "NodeJS"
+  ],
+  "author": "Nur Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nurislam03/LearningNodeJS/issues"
+  },
+  "homepage": "https://github.com/nurislam03/LearningNodeJS#readme"
+}
